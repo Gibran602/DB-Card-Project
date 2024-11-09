@@ -1,5 +1,3 @@
-import react from "react";
-
 export default function PhotoSection() {
   return (
     <div className="photo-container">
