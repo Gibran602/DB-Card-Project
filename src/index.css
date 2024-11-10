@@ -14,8 +14,7 @@ html {
 
 .photo-container {
   border-radius: 0.625rem 0.625rem 0 0;
-  height: 19.813rem;
-  width: 100vw;
+  width: 100%;
 }
 
 .photo {
@@ -146,6 +145,7 @@ footer > a {
   .photo-container {
     margin: 0 auto;
     width: 19.813rem;
+    height: 19.813rem;
   }
   main {
     width: 19.813rem;
