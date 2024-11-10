@@ -17,11 +17,13 @@ export default function Main() {
           Email
         </button>
       </a>
-      <button className="linkedin-button">
-        {" "}
-        <FontAwesomeIcon icon={faLinkedin} />
-        LinkedIn
-      </button>
+      <a href="https://www.linkedin.com/in/gibran-suarez602">
+        <button className="linkedin-button">
+          {" "}
+          <FontAwesomeIcon icon={faLinkedin} />
+          LinkedIn
+        </button>
+      </a>
       <div className="sections-container">
         <section className="about-section">
           <h3>About</h3>
